@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862479576142",
+    "project_id": "mucic-tube",
+    "storage_bucket": "mucic-tube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862479576142:android:982910a22f2f0d1e9e271f",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862479576142-7llfcnce34c6tgajfhnpgued6puku3rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdk-bt701sNfi1dIjaSH309tkP8DbzTOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862479576142-7llfcnce34c6tgajfhnpgued6puku3rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
